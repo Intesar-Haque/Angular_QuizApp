@@ -1,0 +1,11 @@
+.input-custom{
+  padding: 1rem;
+  height: 3vh;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.input-custom-btn {
+
+  display: inline-block;
+}
